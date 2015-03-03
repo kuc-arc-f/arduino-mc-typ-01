@@ -1,5 +1,5 @@
 /*
- mc-typ-01 ver :1.0
+  mc-typ-01 ver :1.0
 */
 #include <MsTimer2.h>
 #include <SPI.h>
